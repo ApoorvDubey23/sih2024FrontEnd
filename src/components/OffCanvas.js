@@ -16,7 +16,7 @@ function SideDrawer() {
 
   return (
     <>
-      <Button variant='dark' className='absolute top-3 left-3' onClick={handleShow}>
+      <Button variant='dark' className='absolute top-3 right-3' onClick={handleShow}>
         More
       </Button>
 
